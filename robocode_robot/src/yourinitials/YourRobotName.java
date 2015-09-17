@@ -1,4 +1,4 @@
-package yourteamname;
+package yourinitials;
 import robocode.*;
 import java.awt.Color;
 
@@ -7,7 +7,7 @@ import java.awt.Color;
 /**
  * YourTeamName - Rename this class to your robot's name!  Don't forget the file too :)
  */
-public class YourTeamName extends Robot
+public class YourRobotName extends Robot
 {
 	/**
 	 * run: default behavior
@@ -23,11 +23,10 @@ public class YourTeamName extends Robot
 		// Robot main loop
 		while(true) {
 			// Replace the next 4 lines with any behavior you would like
-			ahead(100);
-			turnGunRight(360);
-			back(100);
-			turnGunRight(360);
-			turnGunRight(360);
+			this.ahead(100);
+			this.turnGunRight(360);
+			this.back(100);
+			this.turnGunRight(360);
 		}
 	}
 
