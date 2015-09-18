@@ -41,14 +41,14 @@ Of course!  I only made this Eclipse project with links to make it easier on you
 
 Here's a breakdown of all the statistics:
 
-**Total Score* - This is everything else added up, and determines each robot's rank in this battle.
-**Survival Score* - Each robot that's still alive scores 50 points every time another robot dies.
-**Last Survivor Bonus* - The last robot alive scores 10 additional points for each robot that died before it.
-**Bullet Damage* - Robots score 1 point for each point of damage they do to enemies.
-**Bullet Damage Bonus* - When a robot kills an enemy, it scores an additional 20% of all the damage it did to that enemy.
-**Ram Damage* - Robots score 2 points for each point of damage they cause by ramming enemies.
-**Ram Damage Bonus* - When a robot kills an enemy by ramming, it scores an additional 30% of all the damage it did to that enemy.
-**1sts, 2nds, 3rds* - These do not actually contribute to score, but are there to show how long the robot survived, i.e. the number of rounds the robot was placed 1st, 2nd, and 3rd.
+- **Total Score** - This is everything else added up, and determines each robot's rank in this battle.
+- **Survival Score** - Each robot that's still alive scores 50 points every time another robot dies.
+- **Last Survivor Bonus** - The last robot alive scores 10 additional points for each robot that died before it.
+- **Bullet Damage** - Robots score 1 point for each point of damage they do to enemies.
+- **Bullet Damage Bonus** - When a robot kills an enemy, it scores an additional 20% of all the damage it did to that enemy.
+- **Ram Damage** - Robots score 2 points for each point of damage they cause by ramming enemies.
+- **Ram Damage Bonus** - When a robot kills an enemy by ramming, it scores an additional 30% of all the damage it did to that enemy.
+- **1sts, 2nds, 3rds** - These do not actually contribute to score, but are there to show how long the robot survived, i.e. the number of rounds the robot was placed 1st, 2nd, and 3rd.
 
 Reference and more information found at:  http://robowiki.net/wiki/Robocode/Scoring
 
