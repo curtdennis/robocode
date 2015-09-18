@@ -7,7 +7,9 @@ While there are MANY strategies you can employ to confuse or dispose of the comp
 ## Where do I sign up!?
 
 Clone this repository to your local machine and import the Eclipse project located in robocode_robot.  In this project you can begin writing your own personal robot intelligence.  The main file you will work in is: 
+
     src/yourinitials/YourRobotName.java
+
 To get started just refactor->rename the package yourinitials with your initials, then refactor->rename the file YourRobotName.java with whatever you would name the robot.
 
 ## Writing your robot
@@ -19,11 +21,20 @@ In this file, you will see a framework for running the robot, scanning for other
 
 ## How to I run my bot?
 
-Open the eclipse project as mentioned earlier.  Inside of Eclipse right click robocode_robot then click Run As->Run Configurations.  Expand Java Application and select "Run Robot".  Click Run at the bottom right of the window.  
+Open the eclipse project as mentioned earlier.  Inside of Eclipse right click robocode_robot then click 
 
-When the Robocode application opens click "Options-> Development Options".  Here you need to add the directory where you cloned/downloaded the repository.
+    Run As->Run Configurations  
+
+Expand Java Application and select "Run Robot".  Click Run at the bottom right of the window.  
+
+When the Robocode application opens click
+
+    Options-> Development Options
+
+ Here you need to add the directory where you cloned/downloaded the repository.
 
 Example for my machine:  
+
     /home/curt/terrorbytes/source/repo/robocode/robocode_robot/bin
 
 It is important you point this at robocode/robocode_robot/bin so that the application can see your robot.  You will only have to do this once.  
