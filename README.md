@@ -6,16 +6,16 @@ While there are MANY strategies you can employ to confuse or dispose of the comp
 
 ## Where do I sign up!?
 
-Clone this repository to your local machine and import the Eclipse project located in robocode_robot.  In this project you can begin writing your own personal robot intelligence.  The main file you will work in is src/yourinitials/YourRobotName.java.
-
+Clone this repository to your local machine and import the Eclipse project located in robocode_robot.  In this project you can begin writing your own personal robot intelligence.  The main file you will work in is: 
+    src/yourinitials/YourRobotName.java
 To get started just refactor->rename the package yourinitials with your initials, then refactor->rename the file YourRobotName.java with whatever you would name the robot.
 
 ## Writing your robot
 
 In this file, you will see a framework for running the robot, scanning for other robots, reacting to getting shot, and reacting to hitting walls.  Keep in mind that there are many more framework and function options than what is in the file.
 
-API Here:  
-Wiki Here: http://robowiki.net/wiki/Robocode
+- API Here: http://robocode.sourceforge.net/docs/robocode/ 
+- Wiki Here: http://robowiki.net/wiki/Robocode
 
 ## How to I run my bot?
 
@@ -23,13 +23,14 @@ Open the eclipse project as mentioned earlier.  Inside of Eclipse right click ro
 
 When the Robocode application opens click "Options-> Development Options".  Here you need to add the directory where you cloned/downloaded the repository.
 
-Example for my machine:  /home/curt/terrorbytes/source/repo/robocode/robocode_robot/bin
+Example for my machine:  
+    /home/curt/terrorbytes/source/repo/robocode/robocode_robot/bin
 
 It is important you point this at robocode/robocode_robot/bin so that the application can see your robot.  You will only have to do this once.  
 
 At this point you can click Finish which brings you back to the main window.  Then click:
 
-Battle->New
+    Battle->New
 
 In here you should see your initials under packages, and your robot name on the right.  Add your robot, and some sample bots, then click Start Battle!  That's it.  Enjoy the game and good luck :)
 
@@ -60,10 +61,10 @@ I also encourage you to play against your friends before the big-day to fine-tun
 
 ## Links
 
-http://robowiki.net/wiki/Robocode_Download_And_Install
-http://robowiki.net/wiki/Category:Tutorials
-http://robowiki.net/wiki/Robocode/My_First_Robot
-http://robowiki.net/
+- http://robowiki.net/wiki/Robocode_Download_And_Install
+- http://robowiki.net/wiki/Category:Tutorials
+- http://robowiki.net/wiki/Robocode/My_First_Robot
+- http://robowiki.net/
 
 ## Credit
 
